@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -427,27 +428,27 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-user-plus kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">293</div>
+          <div class="kpi-value">335</div>
           <div class="kpi-label">Total Ingresos</div>
         </div>
         <div class="kpi-card danger">
           <i class="fas fa-user-minus kpi-icon" style="color: var(--danger);"></i>
-          <div class="kpi-value">130</div>
+          <div class="kpi-value">148</div>
           <div class="kpi-label">Total Retiros</div>
         </div>
         <div class="kpi-card">
           <i class="fas fa-plus kpi-icon" style="color: var(--primary);"></i>
-          <div class="kpi-value">+163</div>
+          <div class="kpi-value">+187</div>
           <div class="kpi-label">Crecimiento Neto</div>
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-percent kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">69%</div>
+          <div class="kpi-value">71%</div>
           <div class="kpi-label">Tasa Retención</div>
         </div>
         <div class="kpi-card success">
           <i class="fas fa-calendar-check kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">29</div>
+          <div class="kpi-value">30</div>
           <div class="kpi-label">Promedio Ingresos</div>
         </div>
         <div class="kpi-card danger">
@@ -462,7 +463,7 @@
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-chart-line kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">+16</div>
+          <div class="kpi-value">+17</div>
           <div class="kpi-label">Promedio Neto</div>
         </div>
       </div>
@@ -496,7 +497,7 @@
         </li>
         <li class="insight-item">
           <i class="fas fa-calendar-alt"></i>
-          <span><strong>Indicador de Retención:</strong> Con 293 ingresos frente a 130 retiros, la organización mantiene una tasa de permanencia del 69%, posicionándose por encima del benchmark sectorial y evidenciando políticas efectivas de gestión del talento humano.</span>
+          <span><strong>Indicador de Retención:</strong> Con 335 ingresos frente a 148 retiros, la organización mantiene una tasa de permanencia del 71%, posicionándose por encima del benchmark sectorial y evidenciando políticas efectivas de gestión del talento humano.</span>
         </li>
         <li class="insight-item">
           <i class="fas fa-bullseye"></i>
@@ -611,7 +612,7 @@ new Chart(document.getElementById('chartPieResumen'), {
   data: {
     labels: ['Total Ingresos', 'Total Retiros', 'Crecimiento Neto'],
     datasets: [{
-      data: [293, 130, 163],
+      data: [335, 1480, 187],
       backgroundColor: ['#10b981', '#ef4444', '#6366f1'],
       borderWidth: 0,
       hoverOffset: 20
