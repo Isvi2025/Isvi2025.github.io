@@ -353,7 +353,7 @@
         </div>
         <div class="kpi-card danger">
           <i class="fas fa-fire kpi-icon" style="color: var(--danger);"></i>
-          <div class="kpi-value">+196</div>
+          <div class="kpi-value">+187</div>
           <div class="kpi-label">Crecimiento Total</div>
         </div>
       </div>
