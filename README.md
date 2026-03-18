@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dashboard Personal Operativo Isvi 2025</title>
+  <title>Dashboard Personal Operativo Isvi 2025-2026</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
   <style>
@@ -309,7 +309,7 @@
 
     <h1>📊 Dashboard Personal Operativo Isvi 2025</h1>
     <p>Sistema de Análisis Integral de Personal</p>
-    <div class="total-display">390 Empleados</div>
+    <div class="total-display">564 Empleados</div>
   </div>
 
   <!-- Botones de Navegación -->
@@ -338,7 +338,7 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-users kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">390</div>
+          <div class="kpi-value">564</div>
           <div class="kpi-label">Total Actual</div>
         </div>
         <div class="kpi-card">
@@ -480,7 +480,7 @@
         </li>
         <li class="insight-item">
           <i class="fas fa-chart-line"></i>
-          <span><strong>Escalamiento Organizacional:</strong> La planta de personal experimentó un crecimiento del 115% en el período enero-noviembre, pasando de 170 a 390 colaboradores, superando significativamente las proyecciones iniciales y demostrando la capacidad operativa de absorción de nuevos contratos.</span>
+          <span><strong>Escalamiento Organizacional:</strong> La planta de personal experimentó un crecimiento del 115% en el período enero-noviembre, pasando de 170 a 564 colaboradores, superando significativamente las proyecciones iniciales y demostrando la capacidad operativa de absorción de nuevos contratos.</span>
         </li>
         <li class="insight-item">
           <i class="fas fa-fire"></i>
