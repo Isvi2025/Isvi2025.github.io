@@ -515,10 +515,10 @@
 // Datos
 const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre','Diciembre','Enero','Febrero'];
 const mesesCortos = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov','Dic','Ene','Feb'];
-const ingresos = [10, 15, 0, 18, 51, 4, 129, 25, 23, 18, 42,25,65];
-const retiros = [29, 1, 13, 10, 2, 21, 23, 22, 3, 6, 18,24,29];
-const neto = [-19, 14, -13, 8, 49, -17, 106, 3, 20, 12, 24,1,46];
-const total = [170, 187, 174, 193, 242, 225, 331, 334, 354, 366, 389,390,426];
+const ingresos = [10, 15, 0, 18, 51, 4, 129, 25, 23, 18, 42,25,65,178];
+const retiros = [29, 1, 13, 10, 2, 21, 23, 22, 3, 6, 18,24,29,40];
+const neto = [-19, 14, -13, 8, 49, -17, 106, 3, 20, 12, 24,1,46,138];
+const total = [170, 187, 174, 193, 242, 225, 331, 334, 354, 366, 389,390,426,564];
 
 // Función para cambiar de sección
 function showSection(sectionId) {
