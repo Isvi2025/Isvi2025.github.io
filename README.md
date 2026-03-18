@@ -344,7 +344,7 @@
         <div class="kpi-card">
           <i class="fas fa-arrow-trend-up kpi-icon" style="color: var(--primary);"></i>
           <div class="kpi-value">+133%</div>
-          <div class="kpi-label">Crecimiento</div>
+          <div class="kpi-label">Crecimiento 2025-2026</div>
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-trophy kpi-icon" style="color: var(--warning);"></i>
