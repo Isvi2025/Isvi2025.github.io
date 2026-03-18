@@ -307,7 +307,7 @@
   <!-- Header -->
   <div class="header">
 
-    <h1>📊 Dashboard Personal Operativo Isvi 2025</h1>
+    <h1>📊 Dashboard Personal Operativo Isvi 2025-2026</h1>
     <p>Sistema de Análisis Integral de Personal</p>
     <div class="total-display">564 Colaboradores</div>
   </div>
