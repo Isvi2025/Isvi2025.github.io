@@ -355,7 +355,7 @@
           <i class="fas fa-fire kpi-icon" style="color: var(--danger);"></i>
           <div class="kpi-value">+579</div>
           <div class="kpi-label">Crecimiento</div>
-          <div Ene 2025-Marz 2026</div>
+          <div class="kpi-label">Ene 2025-Marz 2026</div>
         </div>
       </div>
     </div>
