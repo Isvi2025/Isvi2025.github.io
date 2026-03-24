@@ -463,7 +463,7 @@
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-chart-line kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">+37</div>
+          <div class="kpi-value">+38</div>
           <div class="kpi-label">Promedio Neto</div>
         </div>
       </div>
