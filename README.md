@@ -427,42 +427,42 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-user-plus kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">335</div>
+          <div class="kpi-value">749</div>
           <div class="kpi-label">Total Ingresos</div>
         </div>
         <div class="kpi-card danger">
           <i class="fas fa-user-minus kpi-icon" style="color: var(--danger);"></i>
-          <div class="kpi-value">148</div>
+          <div class="kpi-value">246</div>
           <div class="kpi-label">Total Retiros</div>
         </div>
         <div class="kpi-card">
           <i class="fas fa-plus kpi-icon" style="color: var(--primary);"></i>
-          <div class="kpi-value">+187</div>
+          <div class="kpi-value">+547</div>
           <div class="kpi-label">Crecimiento Neto</div>
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-percent kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">71%</div>
+          <div class="kpi-value">76%</div>
           <div class="kpi-label">Tasa Retención</div>
         </div>
         <div class="kpi-card success">
           <i class="fas fa-calendar-check kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">30</div>
+          <div class="kpi-value">53</div>
           <div class="kpi-label">Promedio Ingresos</div>
         </div>
         <div class="kpi-card danger">
           <i class="fas fa-calendar-times kpi-icon" style="color: var(--danger);"></i>
-          <div class="kpi-value">13</div>
+          <div class="kpi-value">16</div>
           <div class="kpi-label">Promedio Retiros</div>
         </div>
         <div class="kpi-card">
           <i class="fas fa-rocket kpi-icon" style="color: var(--primary);"></i>
-          <div class="kpi-value">Jul</div>
+          <div class="kpi-value">Mar-26</div>
           <div class="kpi-label">Mejor Mes</div>
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-chart-line kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">+17</div>
+          <div class="kpi-value">+37</div>
           <div class="kpi-label">Promedio Neto</div>
         </div>
       </div>
