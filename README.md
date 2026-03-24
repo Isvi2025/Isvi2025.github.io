@@ -428,7 +428,7 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-user-plus kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">749</div>
+          <div class="kpi-value">825</div>
           <div class="kpi-label">Total Ingresos</div>
         </div>
         <div class="kpi-card danger">
