@@ -343,18 +343,18 @@
         </div>
         <div class="kpi-card">
           <i class="fas fa-arrow-trend-up kpi-icon" style="color: var(--primary);"></i>
-          <div class="kpi-value">+133%</div>
+          <div class="kpi-value">+341%</div>
           <div class="kpi-label">Crecimiento 2025-2026</div>
         </div>
         <div class="kpi-card warning">
           <i class="fas fa-trophy kpi-icon" style="color: var(--warning);"></i>
-          <div class="kpi-value">129</div>
-          <div class="kpi-label">Récord Julio</div>
+          <div class="kpi-value">185</div>
+          <div class="kpi-label">Récord Marzo-2026</div>
         </div>
         <div class="kpi-card danger">
           <i class="fas fa-fire kpi-icon" style="color: var(--danger);"></i>
-          <div class="kpi-value">+187</div>
-          <div class="kpi-label">Crecimiento Total</div>
+          <div class="kpi-value">+579</div>
+          <div class="kpi-label">Crecimiento Total Ene 2025-Marz 2026</div>
         </div>
       </div>
     </div>
