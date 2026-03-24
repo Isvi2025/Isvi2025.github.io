@@ -448,7 +448,7 @@
         </div>
         <div class="kpi-card success">
           <i class="fas fa-calendar-check kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">53</div>
+          <div class="kpi-value">55</div>
           <div class="kpi-label">Promedio Ingresos</div>
         </div>
         <div class="kpi-card danger">
