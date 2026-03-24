@@ -628,7 +628,7 @@ new Chart(document.getElementById('chartPieResumen'), {
   data: {
     labels: ['Total Ingresos', 'Total Retiros', 'Crecimiento Neto'],
     datasets: [{
-      data: [793, 246, 547],
+      data: [825, 246, 579],
       backgroundColor: ['#10b981', '#ef4444', '#6366f1'],
       borderWidth: 0,
       hoverOffset: 20
