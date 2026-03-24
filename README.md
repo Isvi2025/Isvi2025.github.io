@@ -472,44 +472,60 @@
   <!-- SECCIÓN INSIGHTS -->
   <div id="insights" class="content-section">
     <div class="card">
-      <h2 class="card-title">💡 Análisis Ejecutivo 2025 & Insights Estratégicos</h2>
-      <ul class="insights-list">
-        <li class="insight-item">
-          <i class="fas fa-rocket"></i>
-          <span><strong>Expansión Estratégica - Julio 2025:</strong> La incorporación del cliente MUZO mediante los contratos EMS y GREEN generó el ingreso de 129 colaboradores, representando el 44% del total de incorporaciones del año y consolidando el mes como el de mayor crecimiento histórico de la operación.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-chart-line"></i>
-          <span><strong>Escalamiento Organizacional:</strong> La planta de personal experimentó un crecimiento del 115% en el período enero-noviembre, pasando de 170 a 749 colaboradores, superando significativamente las proyecciones iniciales y demostrando la capacidad operativa de absorción de nuevos contratos.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-fire"></i>
-          <span><strong>Consolidación Mayo 2025:</strong> El segundo mejor desempeño del año con +49 colaboradores netos se atribuye directamente al inicio de operaciones del contrato de Unidad de Mantenimiento Vial, evidenciando capacidad de arranque efectivo de proyectos de gran envergadura.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-exclamation-triangle"></i>
-          <span><strong>Transición Contractual - Enero 2025:</strong> La finalización del contrato COMBUSCOL en las ciudades de Bogotá, Cali y Medellín el 31 de diciembre de 2024 resultó en 29 desvinculaciones durante enero, estableciendo la línea base de 170 colaboradores para el inicio del ejercicio fiscal.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-check-circle"></i>
-          <span><strong>Fase de Consolidación Q3-Q4:</strong> A partir de agosto se observa una estabilización del crecimiento con incorporaciones mensuales entre +3 y +20 colaboradores, reflejando una fase de madurez operativa donde se prioriza la consolidación de contratos existentes sobre la expansión agresiva.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-calendar-alt"></i>
-          <span><strong>Indicador de Retención:</strong> Con 335 ingresos frente a 148 retiros, la organización mantiene una tasa de permanencia del 71%, posicionándose por encima del benchmark sectorial y evidenciando políticas efectivas de gestión del talento humano.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-bullseye"></i>
-          <span><strong>Proyección Cierre Fiscal 2025:</strong> Manteniendo la tendencia de incorporación mensual promedio de +12-15 colaboradores observada en Q4, se proyecta cerrar el ejercicio con una planta entre 400-410 empleados, representando un crecimiento anual del 135% respecto al inicio del período.</span>
-        </li>
-        <li class="insight-item">
-          <i class="fas fa-trophy"></i>
-          <span><strong>Sostenibilidad del Crecimiento:</strong> El registro de balance positivo en 7 de los 10 meses analizados confirma una trayectoria de expansión sostenible, respaldada por la diversificación de cartera de clientes y la exitosa ejecución de nuevos contratos estructurales.</span>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+      <h2 class="card-title">💡 Análisis Ejecutivo 2025-2026 & Insights Estratégicos</h2>
+<ul class="insights-list">
+
+  <li class="insight-item">
+    <i class="fas fa-exclamation-triangle"></i>
+    <span><strong>Enero 2025 – Transición Contractual:</strong> La finalización del contrato COMBUSCOL en Bogotá, Cali y Medellín generó 29 retiros, estableciendo la línea base operativa en 170 colaboradores e iniciando una fase de reconfiguración del portafolio.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-fire"></i>
+    <span><strong>Mayo 2025 – Consolidación Operativa:</strong> Se registra un crecimiento neto de +49 colaboradores impulsado por el inicio del contrato de Unidad de Mantenimiento Vial, validando la capacidad de despliegue en proyectos de gran escala.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-rocket"></i>
+    <span><strong>Julio 2025 – Expansión Estratégica:</strong> La incorporación del cliente MUZO mediante contratos EMS y GREEN generó el ingreso de 129 colaboradores, marcando un punto de inflexión en la capacidad de escalamiento organizacional.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-check-circle"></i>
+    <span><strong>Agosto – Diciembre 2025 – Fase de Estabilización:</strong> Se evidencia una desaceleración controlada del crecimiento con variaciones netas entre +3 y +20 colaboradores mensuales, priorizando la consolidación operativa y la maduración de contratos activos.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-sync-alt"></i>
+    <span><strong>Enero 2026 – Reactivación Progresiva:</strong> El fortalecimiento de contratos como Green Mining Services impulsa un crecimiento paulatino, marcando el inicio de un nuevo ciclo de expansión con mayor control operativo.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-bolt"></i>
+    <span><strong>Febrero 2026 – Expansión Acelerada:</strong> El ingreso del contrato UNP – Protección y Vida 087 genera la incorporación de aproximadamente 160 colaboradores en un solo mes, evidenciando un salto exponencial en la operación.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-bolt"></i>
+    <span><strong>Marzo 2026 – Escalamiento Exponencial:</strong> Se mantiene la tendencia de crecimiento acelerado con la incorporación de otros 160 colaboradores adicionales, consolidando el mayor pico de expansión en la historia reciente de la organización.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-chart-line"></i>
+    <span><strong>Escalamiento Organizacional Global:</strong> La planta crece de 170 a 749 colaboradores, reflejando un modelo de expansión intensiva basado en contratos de alto impacto y alta demanda operativa.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-users"></i>
+    <span><strong>Indicador de Retención:</strong> Con 793 ingresos frente a 246 retiros, se mantiene una tasa de retención del 76%, alineada con un escenario de crecimiento acelerado pero con control en la rotación.</span>
+  </li>
+
+  <li class="insight-item">
+    <i class="fas fa-trophy"></i>
+    <span><strong>Lectura Estratégica:</strong> La organización evoluciona de un crecimiento lineal en 2025 a un modelo exponencial en 2026 impulsado por contratos ancla, lo que exige fortalecer la supervisión, estandarización de procesos y gestión del riesgo operativo para garantizar sostenibilidad.</span>
+  </li>
+
+</ul>
 
 <script>
 // Datos
