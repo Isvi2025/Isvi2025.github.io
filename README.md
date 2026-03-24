@@ -438,7 +438,7 @@
         </div>
         <div class="kpi-card">
           <i class="fas fa-plus kpi-icon" style="color: var(--primary);"></i>
-          <div class="kpi-value">+547</div>
+          <div class="kpi-value">+579</div>
           <div class="kpi-label">Crecimiento Neto</div>
         </div>
         <div class="kpi-card warning">
