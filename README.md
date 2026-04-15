@@ -309,7 +309,7 @@
 
     <h1>📊 Dashboard Personal Operativo Isvi 2025-2026</h1>
     <p>Sistema de Análisis Integral de Personal</p>
-    <div class="total-display">749 Colaboradores</div>
+    <div class="total-display">764 Colaboradores</div>
   </div>
 
   <!-- Botones de Navegación -->
@@ -338,7 +338,7 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-users kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">749</div>
+          <div class="kpi-value">764</div>
           <div class="kpi-label">Total Actual</div>
         </div>
         <div class="kpi-card">
@@ -513,7 +513,7 @@
 
   <li class="insight-item">
     <i class="fas fa-chart-line"></i>
-    <span><strong>Escalamiento Organizacional Global:</strong> La planta crece de 170 a 749 colaboradores, reflejando un modelo de expansión intensiva basado en contratos de alto impacto y alta demanda operativa.</span>
+    <span><strong>Escalamiento Organizacional Global:</strong> La planta crece de 170 a 764 colaboradores, reflejando un modelo de expansión intensiva basado en contratos de alto impacto y alta demanda operativa.</span>
   </li>
 
   <li class="insight-item">
@@ -532,10 +532,10 @@
 // Datos
 const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre','Diciembre','Enero','Febrero','Marzo'];
 const mesesCortos = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov','Dic','Ene','Feb','Mar'];
-const ingresos = [10, 15, 0, 18, 51, 4, 129, 25, 23, 18, 42,25,65,178,190];
-const retiros = [29, 1, 13, 10, 2, 21, 23, 22, 3, 6, 18,24,29,40,5];
-const neto = [-19, 14, -13, 8, 49, -17, 106, 3, 20, 12, 24,1,46,138,185];
-const total = [170, 187, 174, 193, 242, 225, 331, 334, 354, 366, 389,390,426,564,749];
+const ingresos = [10, 15, 0, 18, 51, 4, 129, 25, 23, 18, 42,25,65,178,208];
+const retiros = [29, 1, 13, 10, 2, 21, 23, 22, 3, 6, 18,24,29,40,8];
+const neto = [-19, 14, -13, 8, 49, -17, 106, 3, 20, 12, 24,1,46,138,200];
+const total = [170, 187, 174, 193, 242, 225, 331, 334, 354, 366, 389,390,426,564,764];
 
 // Función para cambiar de sección
 function showSection(sectionId) {
