@@ -309,7 +309,7 @@
 
     <h1>📊 Dashboard Personal Operativo Isvi 2025-2026</h1>
     <p>Sistema de Análisis Integral de Personal</p>
-    <div class="total-display">764 Colaboradores</div>
+    <div class="total-display">1396 Colaboradores</div>
   </div>
 
   <!-- Botones de Navegación -->
@@ -338,7 +338,7 @@
       <div class="kpi-grid">
         <div class="kpi-card success">
           <i class="fas fa-users kpi-icon" style="color: var(--success);"></i>
-          <div class="kpi-value">764</div>
+          <div class="kpi-value">1396</div>
           <div class="kpi-label">Total Actual</div>
         </div>
         <div class="kpi-card">
@@ -513,7 +513,7 @@
 
   <li class="insight-item">
     <i class="fas fa-chart-line"></i>
-    <span><strong>Escalamiento Organizacional Global:</strong> La planta crece de 170 a 764 colaboradores, reflejando un modelo de expansión intensiva basado en contratos de alto impacto y alta demanda operativa.</span>
+    <span><strong>Escalamiento Organizacional Global:</strong> La planta crece de 170 a 1396 colaboradores, reflejando un modelo de expansión intensiva basado en contratos de alto impacto y alta demanda operativa.</span>
   </li>
 
   <li class="insight-item">
